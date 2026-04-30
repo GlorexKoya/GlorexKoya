@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**GlorexKoya/GlorexKoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Who I am
+Hi, I'm Glory Oluwakoya, a Data Analyst based in Nigeria.  
+I’m passionate about transforming raw business data into clear, actionable insights that support strategic decision-making.
 
-Here are some ideas to get you started:
+## 💼 What I am currently working on
+- Building data analysis projects focused on real-world business problems  
+- Developing dashboards and reports using Excel and Power BI  
+- Strengthening my data storytelling and insight communication skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ The tools I use
+- Microsoft Excel  
+- SQL  
+- Power BI  
+- Python  
+
+## 🌱 I’m currently learning...
+- Advanced DAX and data modeling in Power BI  
+- Improving analytical thinking and business intelligence skills  
+
+## 📫 How to reach me:
+- LinkedIn: www.linkedin.com/in/glory-oluwakoya-5032a937b
+- Email: gloryoluwakoya08@gmail.com
