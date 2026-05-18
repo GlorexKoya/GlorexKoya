@@ -2,7 +2,7 @@
 
 ## 👤 Who I am
 Hi, I'm Glory Oluwakoya, a Data Analyst based in Nigeria.  
-I’m passionate about transforming raw business data into clear, actionable insights that support strategic decision-making.
+I am passionate about transforming raw business data into clear, actionable insights that support strategic decision-making.
 
 ## 💼 What I am currently working on
 - Building data analysis projects focused on real-world business problems  
