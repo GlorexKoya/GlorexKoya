@@ -20,5 +20,5 @@ I am passionate about transforming raw business data into clear, actionable insi
 - Improving analytical thinking and business intelligence skills  
 
 ## 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/glory-oluwakoya-5032a937b
+- LinkedIn: www.linkedin.com/in/glory-oluwakoya
 - Email: gloryoluwakoya08@gmail.com
